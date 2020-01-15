@@ -1,0 +1,53 @@
+{
+  "uid" : "c354021709c853e",
+  "name" : "test_04",
+  "fullName" : "scripts.test_xfail#test_04",
+  "historyId" : "3c26e6f4330501977971c4ff39001aaf",
+  "time" : {
+    "start" : 1578128102169,
+    "stop" : 1578128102169,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_xfail"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_xfail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c354021709c853e.json",
+  "parameterValues" : [ ]
+}

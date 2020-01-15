@@ -1,0 +1,56 @@
+{
+  "uid" : "71d18754fac6e582",
+  "name" : "test_add_cart",
+  "fullName" : "scripts.test_rerun.TestCart#test_add_cart",
+  "historyId" : "3a7ebf48a40491f56b6bae66e2d27f8c",
+  "time" : {
+    "start" : 1578128102077,
+    "stop" : 1578128102077,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_rerun"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCart"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_rerun"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71d18754fac6e582.json",
+  "parameterValues" : [ ]
+}

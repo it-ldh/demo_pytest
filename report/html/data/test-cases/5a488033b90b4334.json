@@ -1,0 +1,59 @@
+{
+  "uid" : "5a488033b90b4334",
+  "name" : "test_login[18537593910-盛桂荣]",
+  "fullName" : "scripts.test_parametrize#test_login",
+  "historyId" : "1fb0e4437b164d7e505846ea1689278d",
+  "time" : {
+    "start" : 1578128102045,
+    "stop" : 1578128102045,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'盛桂荣'"
+  }, {
+    "name" : "phone",
+    "value" : "18537593910"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a488033b90b4334.json",
+  "parameterValues" : [ "'盛桂荣'", "18537593910" ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "d7348caa91b476da",
+  "name" : "test_login[abbdjashjaba-刘飞飞]",
+  "fullName" : "scripts.test_parametrize#test_login",
+  "historyId" : "92265ade1e905a00e47006000bcf430a",
+  "time" : {
+    "start" : 1578128102019,
+    "stop" : 1578128102019,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'刘飞飞'"
+  }, {
+    "name" : "phone",
+    "value" : "'abbdjashjaba'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7348caa91b476da.json",
+  "parameterValues" : [ "'刘飞飞'", "'abbdjashjaba'" ]
+}

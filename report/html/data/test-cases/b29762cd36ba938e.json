@@ -1,0 +1,55 @@
+{
+  "uid" : "b29762cd36ba938e",
+  "name" : "test_browser_maquillage",
+  "fullName" : "scripts.test_skip#test_browser_maquillage",
+  "historyId" : "17da4ea94b835314ba64667776f7efe4",
+  "time" : {
+    "start" : 1578128102143,
+    "stop" : 1578128102143,
+    "duration" : 0
+  },
+  "description" : "浏览化妆品",
+  "descriptionHtml" : "<p>浏览化妆品</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_skip"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_skip"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b29762cd36ba938e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "a8f377f83a879f0d",
+  "name" : "test_01",
+  "fullName" : "scripts.test_xfail#test_01",
+  "historyId" : "338cafb798c78aa01017fc0530e0dbe2",
+  "time" : {
+    "start" : 1578128102151,
+    "stop" : 1578128102151,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "@pytest.mark.xfail(condition=True, reason=\"\")\n    def test_01():\n        print(\"当条件为真,用例执行失败\")\n>       assert False\nE       assert False\n\nscripts\\test_xfail.py:13: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_xfail"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_xfail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8f377f83a879f0d.json",
+  "parameterValues" : [ ]
+}

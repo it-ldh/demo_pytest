@@ -1,0 +1,59 @@
+{
+  "uid" : "e4c99d842a6fee9",
+  "name" : "test_login[13922769565-nan]",
+  "fullName" : "scripts.test_parametrize#test_login",
+  "historyId" : "45cbb83d8682443c8a1e568d344473ae",
+  "time" : {
+    "start" : 1578128102041,
+    "stop" : 1578128102041,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "nan"
+  }, {
+    "name" : "phone",
+    "value" : "13922769565"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4c99d842a6fee9.json",
+  "parameterValues" : [ "nan", "13922769565" ]
+}

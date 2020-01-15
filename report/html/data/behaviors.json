@@ -1,0 +1,395 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_add_cart",
+    "uid" : "efa6532e9a387e40",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128101996,
+      "stop" : 1578128101996,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login",
+    "uid" : "c002569dbe3a3e3e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128101998,
+      "stop" : 1578128101998,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_order",
+    "uid" : "515e673098300ff4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102001,
+      "stop" : 1578128102001,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_verifycode[18080022293]",
+    "uid" : "c2decab067cedd64",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102004,
+      "stop" : 1578128102004,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'18080022293'" ]
+  }, {
+    "name" : "test_verifycode[18080022292]",
+    "uid" : "4b1d0e974892bf33",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102008,
+      "stop" : 1578128102008,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'18080022292'" ]
+  }, {
+    "name" : "test_login[145783063-潘萍]",
+    "uid" : "87d9f9324a897eaa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102012,
+      "stop" : 1578128102012,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'潘萍'", "145783063" ]
+  }, {
+    "name" : "test_login[14578306322445-潘萍萍]",
+    "uid" : "9989569a2a1a2770",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102015,
+      "stop" : 1578128102016,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'潘萍萍'", "'14578306322445'" ]
+  }, {
+    "name" : "test_login[abbdjashjaba-刘飞飞]",
+    "uid" : "d7348caa91b476da",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102019,
+      "stop" : 1578128102019,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'刘飞飞'", "'abbdjashjaba'" ]
+  }, {
+    "name" : "test_login[nan-郑欢]",
+    "uid" : "3db131698d031225",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102023,
+      "stop" : 1578128102023,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'郑欢'", "nan" ]
+  }, {
+    "name" : "test_login[15921245679-武萍]",
+    "uid" : "bbf61fe4c0577e2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102029,
+      "stop" : 1578128102029,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'武萍'", "15921245679" ]
+  }, {
+    "name" : "test_login[15905327337-张金凤]",
+    "uid" : "ff3be0f3c23fa4ac",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102033,
+      "stop" : 1578128102033,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'张金凤'", "15905327337" ]
+  }, {
+    "name" : "test_login[18777036547-盛桂荣]",
+    "uid" : "6a626aef19f0a51c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102037,
+      "stop" : 1578128102037,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'盛桂荣'", "18777036547" ]
+  }, {
+    "name" : "test_login[13922769565-nan]",
+    "uid" : "e4c99d842a6fee9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102041,
+      "stop" : 1578128102041,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "nan", "13922769565" ]
+  }, {
+    "name" : "test_login[18537593910-盛桂荣]",
+    "uid" : "5a488033b90b4334",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102045,
+      "stop" : 1578128102045,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'盛桂荣'", "18537593910" ]
+  }, {
+    "name" : "test_login[13476491092-3221吉琴]",
+    "uid" : "5975742315eab0c7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102048,
+      "stop" : 1578128102049,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'3221吉琴'", "13476491092" ]
+  }, {
+    "name" : "test_login[13403407785-@$%!*]",
+    "uid" : "85f66ccb7b760776",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102052,
+      "stop" : 1578128102052,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'@$%!*'", "13403407785" ]
+  }, {
+    "name" : "test_login[18231973390-zz]",
+    "uid" : "7240a82f3465c95",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102056,
+      "stop" : 1578128102057,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'zz'", "18231973390" ]
+  }, {
+    "name" : "test_login[18269916483-贾健贾健贾健贾健]",
+    "uid" : "d18b7e63eac3eac1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102060,
+      "stop" : 1578128102060,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'贾健贾健贾健贾健'", "18269916483" ]
+  }, {
+    "name" : "test_login[18613587311-赵华]",
+    "uid" : "5b14bee626b24919",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102064,
+      "stop" : 1578128102064,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'赵华'", "18613587311" ]
+  }, {
+    "name" : "test_login[13859432438-郭明]",
+    "uid" : "b837c8214af13aa0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102068,
+      "stop" : 1578128102068,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'郭明'", "13859432438" ]
+  }, {
+    "name" : "test_add_cart",
+    "uid" : "71d18754fac6e582",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102077,
+      "stop" : 1578128102077,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_cart_list",
+    "uid" : "96b94d0b6a1dd17f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1578128102080,
+      "stop" : 1578128102080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_update_cart",
+    "uid" : "1bf4922c2695beb6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102134,
+      "stop" : 1578128102134,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_delete_cart",
+    "uid" : "dc5ea8ee4f72c240",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102137,
+      "stop" : 1578128102138,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_browser_electronic",
+    "uid" : "2e5dddbcbb8666c6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578128102139,
+      "stop" : 1578128102139,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_browser_maquillage",
+    "uid" : "b29762cd36ba938e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102143,
+      "stop" : 1578128102143,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_01",
+    "uid" : "a8f377f83a879f0d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1578128102151,
+      "stop" : 1578128102151,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_02",
+    "uid" : "b81c2779d166294f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1578128102162,
+      "stop" : 1578128102162,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_03",
+    "uid" : "832e2a5195eafda9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1578128102164,
+      "stop" : 1578128102164,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_04",
+    "uid" : "c354021709c853e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1578128102169,
+      "stop" : 1578128102169,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

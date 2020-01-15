@@ -1,0 +1,56 @@
+{
+  "uid" : "c2decab067cedd64",
+  "name" : "test_verifycode[18080022293]",
+  "fullName" : "scripts.test_parametrize#test_verifycode",
+  "historyId" : "fccc5508a2dcf386e4a8449a777d14f9",
+  "time" : {
+    "start" : 1578128102004,
+    "stop" : 1578128102004,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "phone",
+    "value" : "'18080022293'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2decab067cedd64.json",
+  "parameterValues" : [ "'18080022293'" ]
+}

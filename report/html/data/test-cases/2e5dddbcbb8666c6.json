@@ -1,0 +1,57 @@
+{
+  "uid" : "2e5dddbcbb8666c6",
+  "name" : "test_browser_electronic",
+  "fullName" : "scripts.test_skip#test_browser_electronic",
+  "historyId" : "c066ccbed01eef9ee779be726c8ded3c",
+  "time" : {
+    "start" : 1578128102139,
+    "stop" : 1578128102139,
+    "duration" : 0
+  },
+  "description" : "浏览电子商品",
+  "descriptionHtml" : "<p>浏览电子商品</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 女性跳过",
+  "statusTrace" : "('scripts\\\\test_skip.py', 12, 'Skipped: 女性跳过')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_skip"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_skip"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e5dddbcbb8666c6.json",
+  "parameterValues" : [ ]
+}

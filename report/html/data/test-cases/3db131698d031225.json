@@ -1,0 +1,59 @@
+{
+  "uid" : "3db131698d031225",
+  "name" : "test_login[nan-郑欢]",
+  "fullName" : "scripts.test_parametrize#test_login",
+  "historyId" : "f1b3240357ba3653471f7fb727b6bca6",
+  "time" : {
+    "start" : 1578128102023,
+    "stop" : 1578128102023,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_parametrize"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-TJSPRKG"
+  }, {
+    "name" : "thread",
+    "value" : "15504-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_parametrize"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'郑欢'"
+  }, {
+    "name" : "phone",
+    "value" : "nan"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3db131698d031225.json",
+  "parameterValues" : [ "'郑欢'", "nan" ]
+}
