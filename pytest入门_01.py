@@ -12,6 +12,7 @@ def test_register():
     print("输入邮箱")
     print("输入密码")
     print("点击注册")
-
+def testlihui():
+    pass
 if __name__ == '__main__':
     pytest.main(["-s","-v"])
