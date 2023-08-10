@@ -18,5 +18,7 @@ def testlihui():
 
 def test001():
     print("测试")
+def test002():
+    print("测试2")
 if __name__ == '__main__':
     pytest.main(["-s","-v"])
