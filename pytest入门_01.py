@@ -14,5 +14,8 @@ def test_register():
     print("点击注册")
 def testlihui():
     pass
+
+def test_0814():
+    print("test0814")
 if __name__ == '__main__':
     pytest.main(["-s","-v"])

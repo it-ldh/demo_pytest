@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0820cff2-bb41-4048-bd33-92454afa13f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/register_data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/register_data.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest入门_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest入门_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +83,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/m2/demo_pytest&quot;
   }
 }</component>
